@@ -1,0 +1,10 @@
+{
+	"id": "git-gutter",
+	"name": "Git Gutter",
+	"version": "0.1.0",
+	"minAppVersion": "1.5.0",
+	"description": "Show git change indicators in the editor gutter — added, modified, and deleted lines — like VSCode.",
+	"author": "Vishrut Dixit",
+	"authorUrl": "https://github.com/vishrutdixit",
+	"isDesktopOnly": true
+}
