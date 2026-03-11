@@ -2,6 +2,8 @@
 
 Git change indicators in the editor gutter -- added, modified, and deleted lines -- like VSCode.
 
+![screenshot](screenshot.png)
+
 8 built-in color themes (VSCode, GitHub, Monokai, Dracula, Solarized, Nord, Catppuccin) or custom colors.
 
 ## Install
